@@ -22,3 +22,9 @@
 * [Ant Group achieves carbon neutrality in its own operations with green computing technologies driving indirect emission cuts](https://www.antgroup.com/en/news-media/press-releases/2022-04-19-18-00)
 )
 * [Ant Group helps to accelerate low carbon innovation by granting free patent access to its green computing technologies](https://www.antgroup.com/en/news-media/press-releases/2022-04-21-16-00)
+
+## Chinese Blogs and Newslettes
+
+* [云未来、新可能 - 绿色、无处不在、可信的计算](https://xie.infoq.cn/article/59f29e32dc4ab94ee589057f9)
+* [逐向双碳：绿色计算的误区与正确打开方式](https://xie.infoq.cn/article/e72e10fc4706552321f0fa93c)
+
