@@ -19,6 +19,7 @@
 
 ## blogs--newsletters
 
+* [Carbon Footprint Calculator for Green Cloud Computing](https://deshpandetanmay.medium.com/carbon-footprint-calculator-for-green-cloud-computing-c536fb4f49d8)
 * [Ant Group achieves carbon neutrality in its own operations with green computing technologies driving indirect emission cuts](https://www.antgroup.com/en/news-media/press-releases/2022-04-19-18-00)
 )
 * [Ant Group helps to accelerate low carbon innovation by granting free patent access to its green computing technologies](https://www.antgroup.com/en/news-media/press-releases/2022-04-21-16-00)
